@@ -22,7 +22,11 @@ This project was completed as part of Udacity's [Data Scientist Nanodegree](http
 3. Go to http://0.0.0.0:3001/
 
 ## Results
-ETL (Extract Transfer Load) and ML (Machine Learning) pipelines were created ready for API-like use. Flask web application enhanced with additional visualizations.
+ETL (Extract Transfer Load) and ML (Machine Learning) pipelines were created ready for API-like use. Flask web application enhanced with additional visualization.
+
+<center><img src="img/web1.png" width="100%"/></center>
+
+<center><img src="img/web2.png" width="100%"/></center>
 
 ## Tools
 - Python, Jupyter Lab
